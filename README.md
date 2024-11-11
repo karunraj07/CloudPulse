@@ -82,7 +82,7 @@ To set up **CloudPulse** locally, follow these steps:
 
 5. Start the application:
     ```bash
-    npm start
+    npm run dev
     ```
 
 Access the platform at `http://localhost:3000` to view the dashboard and start monitoring your cloud infrastructure.
